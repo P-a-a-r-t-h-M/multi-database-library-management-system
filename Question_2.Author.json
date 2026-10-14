@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6a36f8a9e575847a8eba8e1d"
+  },
+  "authorID": "001",
+  "firstName": "Kim",
+  "lastName": "Jones"
+},
+{
+  "_id": {
+    "$oid": "6a36f8a9e575847a8eba8e1e"
+  },
+  "authorID": "002",
+  "firstName": "Jesse",
+  "lastName": "Howell"
+},
+{
+  "_id": {
+    "$oid": "6a383a9a8ce3acc1fbf33ce8"
+  },
+  "authorID": "003",
+  "firstName": "Conner",
+  "lastName": "Lee"
+},
+{
+  "_id": {
+    "$oid": "6a383a9a8ce3acc1fbf33ce9"
+  },
+  "authorID": "004",
+  "firstName": "Alexander",
+  "lastName": "Miller"
+}]

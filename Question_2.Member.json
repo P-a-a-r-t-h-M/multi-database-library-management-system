@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6a368a66e575847a8eba8e0e"
+  },
+  "memberID": 1001,
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "JohnDoe@gmail.com",
+  "phoneNo": "0748573921"
+},
+{
+  "_id": {
+    "$oid": "6a368a66e575847a8eba8e0f"
+  },
+  "memberID": 1002,
+  "firstName": "Sam",
+  "lastName": "Coetzee",
+  "email": "SamCoetzee@gmail.com",
+  "phoneNo": "0748573921"
+},
+{
+  "_id": {
+    "$oid": "6a382b3a8ce3acc1fbf33cda"
+  },
+  "memberID": 1003,
+  "firstName": "Zach",
+  "lastName": "Williams",
+  "email": "ZachWilliams@yahoo.com",
+  "phoneNo": "0726679872"
+},
+{
+  "_id": {
+    "$oid": "6a382b3a8ce3acc1fbf33cdb"
+  },
+  "memberID": 1004,
+  "firstName": "Simon",
+  "lastName": "Adams",
+  "email": "SimonAdams@vossie.net",
+  "phoneNo": "0736884392"
+}]

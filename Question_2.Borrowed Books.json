@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6a36919fe575847a8eba8e11"
+  },
+  "memberID": 1001,
+  "ISBN": "978-984-96088-0-6",
+  "dateBorrowed": "2026-01-12",
+  "dueDate": "2026-02-01",
+  "returnDate": "2026-01-25",
+  "fineAmount": 0
+},
+{
+  "_id": {
+    "$oid": "6a36919fe575847a8eba8e12"
+  },
+  "memberID": 1002,
+  "ISBN": "958-650-72345-2-3",
+  "dateBorrowed": "2026-05-01",
+  "dueDate": "2026-06-15",
+  "returnDate": "2026-06-30",
+  "fineAmount": 100
+},
+{
+  "_id": {
+    "$oid": "6a3832398ce3acc1fbf33cde"
+  },
+  "memberID": 1004,
+  "ISBN": "678-778-90098-2-1",
+  "dateBorrowed": "2024-07-18",
+  "dueDate": "2025-03-06",
+  "returnDate": "2026-06-30",
+  "fineAmount": 2300
+},
+{
+  "_id": {
+    "$oid": "6a39a790b5a4427c910891dc"
+  },
+  "memberID": 1003,
+  "ISBN": "667-480-72544-4-7",
+  "dateBorrowed": "2025-12-31",
+  "dueDate": "2026-01-13",
+  "returnDate": "2026-01-17",
+  "fineAmount": 50
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6a3693b5e575847a8eba8e14"
+  },
+  "ISBN": "978-984-96088-0-6",
+  "title": "Advanced Databases",
+  "publicationYear": "2007"
+},
+{
+  "_id": {
+    "$oid": "6a3693b5e575847a8eba8e15"
+  },
+  "ISBN": "958-650-72345-2-3",
+  "title": "Programming in Python",
+  "publicationYear": "1998"
+},
+{
+  "_id": {
+    "$oid": "6a3837f48ce3acc1fbf33ce0"
+  },
+  "ISBN": "667-480-72544-4-7",
+  "title": "Programming in Java",
+  "publicationYear": "2026"
+},
+{
+  "_id": {
+    "$oid": "6a3837f48ce3acc1fbf33ce1"
+  },
+  "ISBN": "678-778-90098-2-1",
+  "title": "Programming in C++, C and C#",
+  "publicationYear": "2029"
+}]
